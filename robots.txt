@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: http://nexonvn.io.vn/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Allow all search engines to index the site
+Disallow:

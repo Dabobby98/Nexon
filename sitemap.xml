@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <!-- Homepage - English -->
+    <url>
+        <loc>http://nexonvn.io.vn/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://nexonvn.io.vn/"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="http://nexonvn.io.vn/trang-chu.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://nexonvn.io.vn/"/>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Homepage - Vietnamese -->
+    <url>
+        <loc>http://nexonvn.io.vn/trang-chu.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://nexonvn.io.vn/"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="http://nexonvn.io.vn/trang-chu.html"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="http://nexonvn.io.vn/"/>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- About Pages -->
+    <url>
+        <loc>http://nexonvn.io.vn/about.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://nexonvn.io.vn/about.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="http://nexonvn.io.vn/gioi-thieu.html"/>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>http://nexonvn.io.vn/gioi-thieu.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://nexonvn.io.vn/about.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="http://nexonvn.io.vn/gioi-thieu.html"/>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Contact Pages -->
+    <url>
+        <loc>http://nexonvn.io.vn/contact.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://nexonvn.io.vn/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="http://nexonvn.io.vn/lien-he.html"/>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>http://nexonvn.io.vn/lien-he.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://nexonvn.io.vn/contact.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="http://nexonvn.io.vn/lien-he.html"/>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Service Pages - English -->
+    <url>
+        <loc>http://nexonvn.io.vn/social-media-marketing.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://nexonvn.io.vn/social-media-marketing.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="http://nexonvn.io.vn/xay-kenh-truyen-thong.html"/>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://nexonvn.io.vn/content-marketing.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://nexonvn.io.vn/content-marketing.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="http://nexonvn.io.vn/sang-tao-noi-dung.html"/>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://nexonvn.io.vn/ppc-advertising.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://nexonvn.io.vn/ppc-advertising.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="http://nexonvn.io.vn/chay-quang-cao.html"/>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://nexonvn.io.vn/email-marketing.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://nexonvn.io.vn/email-marketing.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="http://nexonvn.io.vn/email-marketing-vi.html"/>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://nexonvn.io.vn/web-development.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://nexonvn.io.vn/web-development.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="http://nexonvn.io.vn/thiet-ke-website.html"/>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://nexonvn.io.vn/branding-design.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://nexonvn.io.vn/branding-design.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="http://nexonvn.io.vn/thiet-ke-thuong-hieu.html"/>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Service Pages - Vietnamese -->
+    <url>
+        <loc>http://nexonvn.io.vn/xay-kenh-truyen-thong.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://nexonvn.io.vn/social-media-marketing.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="http://nexonvn.io.vn/xay-kenh-truyen-thong.html"/>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://nexonvn.io.vn/sang-tao-noi-dung.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://nexonvn.io.vn/content-marketing.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="http://nexonvn.io.vn/sang-tao-noi-dung.html"/>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://nexonvn.io.vn/chay-quang-cao.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://nexonvn.io.vn/ppc-advertising.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="http://nexonvn.io.vn/chay-quang-cao.html"/>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://nexonvn.io.vn/email-marketing-vi.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://nexonvn.io.vn/email-marketing.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="http://nexonvn.io.vn/email-marketing-vi.html"/>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://nexonvn.io.vn/thiet-ke-website.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://nexonvn.io.vn/web-development.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="http://nexonvn.io.vn/thiet-ke-website.html"/>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://nexonvn.io.vn/thiet-ke-thuong-hieu.html</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="http://nexonvn.io.vn/branding-design.html"/>
+        <xhtml:link rel="alternate" hreflang="vi" href="http://nexonvn.io.vn/thiet-ke-thuong-hieu.html"/>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Other Important Pages -->
+    <url>
+        <loc>http://nexonvn.io.vn/service.html</loc>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>http://nexonvn.io.vn/blog.html</loc>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>http://nexonvn.io.vn/case_studies.html</loc>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>http://nexonvn.io.vn/team.html</loc>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>http://nexonvn.io.vn/testimonial.html</loc>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>http://nexonvn.io.vn/pricing.html</loc>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>http://nexonvn.io.vn/faq.html</loc>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>http://nexonvn.io.vn/partnership.html</loc>
+        <lastmod>2025-10-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+</urlset>
